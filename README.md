@@ -1,71 +1,92 @@
-# Hi there, I'm Lina Helali 👋
+# Hi, I'm Lina Helali 👋
 
-![](https://komarev.com/ghpvc/?username=Lina-Helali&color=blue&style=flat-square)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Software+Engineering+Student+@+ESPRIT;Passionate+about+Development+%26+Cloud;Interested+in+Web,+Java+%26+UI%2FUX;Always+Improving+My+Skills..">
-</p>
+🎓 **Software Engineering Student @ ESPRIT**  
+☁️ **Specialized in Cloud & Cybersecurity**  
+💻 **Java • Spring Boot • Angular • Docker • Linux**
 
 ---
 
-## 🎓 About Me
+## 👩‍💻 About Me
 
-- 🎯 Software Engineering Student at ESPRIT  
-- 💡 Passionate about development, problem solving, and learning new technologies  
-- 🌱 Currently improving my skills in Java, Web Development, and Databases  
-- 🤝 I enjoy teamwork and collaborative projects  
-- ⚡ Fast learner and adaptable  
+I'm a Software Engineering student at **ESPRIT**, specialized in **Cloud & Cybersecurity**.
+
+I'm passionate about software development and building practical applications. I'm developing my skills in **Cloud, DevOps and DevSecOps** through hands-on projects and continuous learning.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-### 💻 Programming
-- C, Java, Python  
+### Programming Languages
+`Java` `C` `SQL` `JavaScript` `TypeScript` `Python`
 
-### 🌐 Web Development
-- HTML, CSS  
+### Backend
+`Spring Boot` `REST API` `JPA` `JDBC` `Maven`
 
-### 🧩 Concepts & Tools
-- Object-Oriented Programming (OOP)  
-- UML Modeling  
-- Databases (SGBD)  
-- Git & Version Control  
-- GUI Development (Glade)  
+### Frontend
+`Angular` `JavaFX` `HTML` `CSS`
 
-### 📡 Other Knowledge
-- Basics of Machine Learning  
-- Computer Networks (Cisco Packet Tracer, IP, Routing)  
+### Databases
+`PostgreSQL` `MySQL`
 
+### DevOps & Tools
+`Docker` `Docker Compose` `Git` `GitHub` `Linux` `Railway`
+
+### Security
+`JWT` `BCrypt` `OSV` `CVE` `CVSS`
+
+### Networking & Modeling
+`TCP/IP` `Cisco Packet Tracer` `UML`
+
+---
+
+## 🚀 Projects
+
+### 🔹 Vermeg Dependencies Analyzer
+
+A web platform for analyzing Maven dependencies, detecting dependency conflicts and vulnerabilities, and visualizing dependency relationships.
+
+**Technologies:** `Java` `Spring Boot` `Angular` `PostgreSQL` `Docker` `Git` `Railway` `OSV`
+
+### 🔹 E-Commerce Application
+
+A desktop e-commerce application with product management, order processing, online payment integration, email notifications, and administrator validation.
+
+**Technologies:** `Java` `JavaFX` `MySQL` `JDBC` `Maven` `UML`
+
+### 🔹 C Sports Management Application
+
+A desktop application for managing sports activities, registrations, authentication, and automated email notifications.
+
+**Technologies:** `C` `MySQL` `Glade` `Git`
 
 ---
 
 ## 🎓 Education
 
-- 🎓 ESPRIT – Engineering in Computer Science (2025–Present)  
-- 📚 Preparatory Classes Math-Physics (2023–2025)  
-- 🏅 Baccalauréat Mathématiques – Mention Bien  
+**ESPRIT – École Supérieure Privée d'Ingénierie et de Technologies**  
+Engineering in Computer Science — **Cloud & Cybersecurity**  
+2025 – Present
+
+**Preparatory Classes – Mathematics & Physics**  
+2023 – 2025
+
+**Baccalauréat Mathematics – Mention Bien**  
+2023
 
 ---
 
 ## 🌍 Languages
 
-- Arabic  
-- French  
-- English  
+- Arabic — Native
+- French — Fluent
+- English — Professional
 
 ---
 
 ## 📫 Contact
 
-- 📧 lina.helali@esprit.tn  
+📧 **lina.helali@esprit.tn**
 
 ---
 
-## 💡 Quote
-
-> "Always learning, always improving."
-
----
-
-⭐ Feel free to check my repositories!
+⭐ *Always learning, building, and exploring new technologies.*
